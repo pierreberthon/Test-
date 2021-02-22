@@ -1,5 +1,35 @@
-h1{color:brown;} 
-h2{color:brown;}
-h3, green-text {color:green;}
-*{color:black;}
-header, introduction, footer{text-align:center;}
+body {
+  background-color: #F8F4F9
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  color: #6B4B3E;
+  text-align: center;
+}
+
+h2{
+  color: #6B4B3E;
+}
+
+h3 {
+  color: #6B4B3E;
+}
+
+*{
+  color: black;
+}
+header, introduction, footer{
+  text-align: center;
+}
+
+.strong-text{
+  color: #68A357
+}
+
+div{
+  border
+}
